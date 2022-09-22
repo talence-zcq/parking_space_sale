@@ -1,0 +1,10 @@
+登录_黑盒测试_判定表法(用户ID,密码,expect)
+admin,123456,true
+admi,123456,false
+admin,12345,false
+admi,12345,false
+,123456,false
+admin,,false
+,,false
+,12345,false
+admi,,false

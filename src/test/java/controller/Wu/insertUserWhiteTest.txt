@@ -1,0 +1,4 @@
+Controller_添加注册用户_白盒测试_等价类划分法(user_identity,user_name,password,user_sex,user_phone,user_invitee,expect)
+2373660227@qq.com,Amy,233,女,15958620257,wqx,注册成功！
+2019060717@zjut,安琪拉,233,女,13876943731,hxd,注册成功！
+788748,艾米,,女,738hcj,,注册失败！

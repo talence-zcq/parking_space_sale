@@ -1,0 +1,5 @@
+service_商家入驻_黑盒测试_等价类划分法（id，developer_id, developer_name，expect）
+1/yj@126.com/yj/true
+/yj@126.com/yj/true/期望：false
+2//yj/true/期望：false
+3/yj@126.com//true/期望：false

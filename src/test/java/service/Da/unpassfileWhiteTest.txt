@@ -1,0 +1,4 @@
+Service_不通过申请文件_白盒测试_等价类划分法(文件状态,申请者ID,后台管理员用户名,EasyMock,expect)
+2,00a,abcd,false,false
+1,00a,lihua,false,false
+1,01,lihua,true,true

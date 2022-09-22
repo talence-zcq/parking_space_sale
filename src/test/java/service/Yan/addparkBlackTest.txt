@@ -1,0 +1,6 @@
+service_添加车位_黑盒测试_等价类划分法（residentialQuartersId,address,price,pid）
+001/杭州市/3900/yanjiong@126.com/true
+9999/杭州市/3900/yanjiong@126.com/true/期望：false
+001/ /3900/yanjiong@126.com/true/期望：false
+001/杭州市/3900/yanjiong@126.com/true/期望：false
+001/杭州市/3900//false

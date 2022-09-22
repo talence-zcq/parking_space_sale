@@ -1,0 +1,4 @@
+Controller_所有车位查询_白盒测试_判定覆盖法(实际页数;expect(parkspaceList该页应有的长度))[数据库要求:parking_space表得有两条记录]
+0;2
+;2
+3;0

@@ -1,0 +1,7 @@
+查询已审批文件_黑盒测试_错误推测法(pagenum,pageSize,state,expect)
+,,,false
+1.1,1.2,1.3,false
+a,b,c,false
+-1,-2,-1,false
+你,我,他，false
+@,#,&,false

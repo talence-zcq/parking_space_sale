@@ -1,0 +1,3 @@
+Controller_查询开发商信息_白盒测试_判断覆盖法(页最大查询数,页码,expect1,expect2,expect3)[数据库要求:存在developer表]
+,1,5,1,true
+5,,5,1,true

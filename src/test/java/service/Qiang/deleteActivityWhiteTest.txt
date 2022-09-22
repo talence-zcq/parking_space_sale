@@ -1,0 +1,2 @@
+Service_删除活动_白盒测试_基路径覆盖法(activity_id,expect)
+001,true

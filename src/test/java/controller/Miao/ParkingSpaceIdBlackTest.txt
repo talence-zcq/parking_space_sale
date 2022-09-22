@@ -1,0 +1,2 @@
+Controller_车位信息查询_黑盒测试_错误推测法(车位Id;expect(查询到的车位的id))[数据库要求:parking_space表得有对应记录]
+;

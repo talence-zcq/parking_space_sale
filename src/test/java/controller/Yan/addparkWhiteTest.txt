@@ -1,0 +1,4 @@
+controller_添加车位_白盒测试_判定覆盖法(residential_quarters_id,address,price,photo)
+001/杭州市/3900/1.jpg/上架成功！
+9999/杭州市/3900/1.jpg/添加失败！
+001/杭州市/3900/1.txt/添加失败！

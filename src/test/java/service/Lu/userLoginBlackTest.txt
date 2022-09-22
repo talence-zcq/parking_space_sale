@@ -1,0 +1,5 @@
+用户登录_黑盒测试_等价类划分法(用户ID;密码;expect1(用户ID);expect2(密码))
+huangyimiao666@gmail.com;123456;huangyimiao666@gmail.com;123456
+;123456;null;123456
+huangyimiao666@gmail.com;;huangyimiao666@gmail.com;null
+;;null;null

@@ -1,0 +1,10 @@
+Controller_用户信息更新_白盒测试_判定覆盖法(用户id;邮箱;用户名;电话号码;性别;小区号;楼号;房间号;expect)[数据库要求:user_information表得有user_identity:huangyimiao666@gmail.com,user_password:123456的记录]
+huangyimiao666@gmail.com;huangyimiao666@gmail.com;123;18866666666;男;13区;3;301;1
+huangyimiao666@gmail.com;;123;18866666666;男;13区;3;301;2
+huangyimiao666@gmail.com;huangyimiao666@gmail.com;;18866666666;男;13区;3;301;1
+huangyimiao666@gmail.com;huangyimiao666@gmail.com;123;;男;13区;3;301;1
+huangyimiao666@gmail.com;huangyimiao666@gmail.com;123;18866666666;;13区;3;301;1
+huangyimiao666@gmail.com;huangyimiao666@gmail.com;123;18866666666;男;;3;301;1
+huangyimiao666@gmail.com;huangyimiao666@gmail.com;123;18866666666;男;13区;;301;1
+huangyimiao666@gmail.com;huangyimiao666@gmail.com;123;18866666666;男;13区;3;;1
+huangyimiao666@gmail.com;huangyimiao666@gmail.comn;123;18866666666;男;13区;3;301

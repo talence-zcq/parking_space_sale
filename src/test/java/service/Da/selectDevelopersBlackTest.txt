@@ -1,0 +1,8 @@
+Service_查询开发商信息_黑盒测试_等价类划分法(此时页码数,页最大查询数量)
+1,5,true
+1,10,true
+-1,5,false
+1,11,false
+1,,false
+,1,false
+,,false

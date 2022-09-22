@@ -1,0 +1,17 @@
+Service_通过申请文件_黑盒测试_等价类划分法(文件状态,申请者ID,后台管理员用户名,EasyMock,expect)
+2,01,lihua,true,true
+2,abcd,lihau,false,false
+2,01,aaaa,false,false
+2,abcd,aaaa,false,false
+1,01,lihua,false,false
+011,01,lihua,false,false
+1,abcd,lihua,false,false
+1,01,aaaa,false,false
+1,abcd,aaaa,false,false
+,01,lihua,false,false
+,,lihua,false,false
+,01,,false,false
+,,,false,false
+2,,,false,false
+2,01,,false,false
+2,,lihua,false,false

@@ -1,0 +1,3 @@
+Controller_查询公司信息_黑盒测试_等价类划分法(管理员ID,搜索,页面大小,页数,expect)[数据库要求:developer表得有developer_id:1234,developer_name:alibaba,money:1.00,state:正常的记录&&developer_administrator表得有id:123,developer_id:1234,role:管理员,password:123的记录]
+123,1234,1
+,,0

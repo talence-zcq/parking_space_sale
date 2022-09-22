@@ -1,0 +1,4 @@
+Controller_通过申请_黑盒测试_等价类划分法(后台管理员用户名,申请文件ID,expect)[数据库要求:administrator表得有lihua的记录]
+lihua,01,通过成功
+lihua,003,处理失败！
+lihua,,处理失败！

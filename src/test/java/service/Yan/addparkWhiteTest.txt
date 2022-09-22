@@ -1,0 +1,2 @@
+service_添加车位_白盒测试_语句覆盖法（residentialQuartersId,address,price,pid）
+001/杭州市/3900/yanjiong@126.com/true

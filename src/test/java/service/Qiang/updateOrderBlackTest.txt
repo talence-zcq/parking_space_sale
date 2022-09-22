@@ -1,0 +1,7 @@
+Service_订单处理_黑盒测试_两两组合法(订单ID,订单乙方,合同内容,最终价格,最迟付款时间,开放商ID,车位ID,expect)
+001,zjut@zjut,PS1641908053,1000,2022-1-1,zjut@zjut,PS1641908053,true
+001,zjut@zjut,PS1641908053,,2022-1-1,zjut@zjut,PS1641908053,true
+,zjut@zjut,PS1641908053,1000,2022-7-1,zjut@zjut,PS1641908053,false
+002,,PS1641908053,1千块,2022-7-1,zjut@zjut,PS1641908053,false
+002,zjut@zjut,,1000,2022-A-1,zjut@zjut,,false
+002,zjut@zjut,PS1641908053,1000,2022-7-1,,PS1641908053,false

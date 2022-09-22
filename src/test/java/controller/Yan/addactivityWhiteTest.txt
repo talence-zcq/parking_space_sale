@@ -1,0 +1,3 @@
+controller_添加活动_白盒测试_判定覆盖法（activity_name,activity_category,activity_residential_quarters_id,activity_discount,activity_content）
+双11/1/111/20/100/添加成功！
+双11/1/111/20//添加成功！

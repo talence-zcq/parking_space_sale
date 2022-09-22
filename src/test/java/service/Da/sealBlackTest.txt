@@ -1,0 +1,9 @@
+Service_解封_黑盒测试_等价类划分法(账号状态,开发商ID,easyMock,expect)
+正常,1015678266@qq.com,true,true
+正常,abcd,false,false
+123,1015678266@qq.com,false,false
+123,abcd,false,false
+abc,abcd,false,false
+,1015678266@qq.com,false,false
+,,false,false
+正常,,false,false

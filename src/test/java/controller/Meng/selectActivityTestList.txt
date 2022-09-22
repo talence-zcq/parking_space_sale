@@ -1,0 +1,7 @@
+Controller_查询活动_黑盒测试_等价类划分法(管理员ID,搜索,页面大小,页数,expect)[数据库要求:activity表得有activity_id:AC1653534422,activity_name:感恩节回馈,activity_developer_id:1234,residential_quarters_id:RQ1653534307的记录]
+123,,5,1,1
+123,感恩节回馈,5,1,1
+,,0,0,0
+123,感恩节,5,1.5,0
+123,回馈,-1,5,0
+123,RQ1653534307,5,-1,0

@@ -1,0 +1,3 @@
+Controller_查询小区_黑盒测试_等价类划分法(管理员ID,搜索,页面大小,页数,expect)[数据库要求:residential_quarters表得有developer_id:1234,residential_quarters_name:alibaba,id:RQ1653534307,state:运营的记录]
+1234,5,1,1
+,5,1,0

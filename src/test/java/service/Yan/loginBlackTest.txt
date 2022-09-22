@@ -1,0 +1,7 @@
+service_登录_黑盒测试_等价类划分法(username,password,state,expect)
+yanjiong@126.com,123,正常,1
+yanjiong@126.com,,正常,1,（期望：2）
+,123,正常,1,（期望：2）
+,,正常,1,（期望：2）
+yanjiong@126.com,12345,正常,1,（期望：2）
+123@163.com,123,封号,2

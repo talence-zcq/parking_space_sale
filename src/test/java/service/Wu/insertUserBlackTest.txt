@@ -1,0 +1,13 @@
+Service_添加注册用户_黑盒测试_等价类划分法(user_identity,user_name,user_sex,user_phone,user_invitee,expect)
+2373660227@qq.com,Amy,女,15958620257,wqx,true
+,阿黄,男,13799806754,klu,true
+7567638278,艾米,女,13793026382,wqx,true
+53719#$gd,安恒,男,12345899087,kjh,true
+201906062717@zjut,安琪拉,女,13876943731,hxd,true
+7567638278@qq.com,hfh,男,nijvrgh,yhj,true
+7568768278@qq.com,hfh,男,13456,yhj,true
+7234568278@qq.com,hfh,男,13456789101112,yhj,true
+53811@outlook.com,,女,12345678901,hjg,true
+8738492844@163.com,ksh,,65367156789,khs,true
+89724@163.com,阿菜,男,,hjy,true
+87326@wy.com,阿恒,男,13452678902,,true

@@ -1,0 +1,2 @@
+controller_提交入驻申请_黑盒测试_判定覆盖法（developer_id,developer_name,file,expect）
+yj@126.com/yj/1.jpg/申请成功！

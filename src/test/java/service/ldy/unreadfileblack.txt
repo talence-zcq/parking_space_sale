@@ -1,0 +1,9 @@
+查询未审批文件_黑盒测试_错误推测法(pagesize,pagenum,管理员id，state1,state2,expect)
+,,,,,false
+1.1,1.2,admin,1.3,1.5,false
+a,b,admin,c,d,false
+-1,-2,admin,-1,-3,false
+你,我,admin,他，们,false
+@,#,admin,&,&false
+1,1,admin@,2,3,false
+1,1,2,3,false

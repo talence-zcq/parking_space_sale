@@ -1,0 +1,4 @@
+Controller_用户登录_白盒测试_判定覆盖法(用户id;密码;expect)[数据库要求:user_login表得有user_identity:huangyimiao666@gmail.com,user_password:123456的记录]
+;123456;failure, 该用户不存在
+huangyimiao666@gmail.com;123456;登录成功
+huangyimiao666@gmail.com;1234567;用户名或密码错误！

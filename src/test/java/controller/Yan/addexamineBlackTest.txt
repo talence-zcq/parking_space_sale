@@ -1,0 +1,5 @@
+controller_提交入驻申请_黑盒测试_等价类划分法（developer_id,developer_name,file,expect）
+yj@126.com/yj/1.jpg/申请成功！
+/yj/1.jpg/申请成功！/预期：Emai或Name为空
+yj@126.com//1.jpg/申请成功！/预期：Emai或Name为空
+yj@126.com/yj/1.txt/处理失败！

@@ -1,0 +1,4 @@
+Controller_查询优惠券_白盒测试_等价类划分法(用户ID,expect)
+23333457809@com,用户不存在！
+1015678266@qq.com,查询到了2张优惠券!
+huangyimiao666@gmail.com,未查询到优惠券!

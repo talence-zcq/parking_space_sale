@@ -1,0 +1,3 @@
+service_商家入驻_白盒测试_语句覆盖（id，developer_id, developer_name，expect）
+1/yj@126.com/yj/true
+/yj@126.com/yj/false/期望：false

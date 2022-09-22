@@ -1,0 +1,5 @@
+service_登录_白盒测试_判定覆盖法(username,password,state,expect)
+yanjiong@126.com,123,正常,1
+yanjiong@126.com,1234,正常,2
+123@163.com,123,封号,2
+yj@163.com,123,未知,2

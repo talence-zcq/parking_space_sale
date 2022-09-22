@@ -1,0 +1,3 @@
+Controller_不通过申请_白盒测试_判定条件法(后台管理员用户名,申请文件ID,expect)[数据库要求:administrator表得有lihua的记录]
+lihua,01,不通过成功
+lihua,,处理失败！

@@ -1,0 +1,3 @@
+Service_添加注册用户_白盒测试_等价类划分法(user_identity,user_name,password,user_sex,user_phone,user_invitee,expect)
+2373660227@qq.com,Amy,女,15958620257,wqx,true
+788748,艾米,女,738hcj,,false

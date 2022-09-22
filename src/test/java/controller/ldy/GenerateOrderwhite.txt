@@ -1,0 +1,6 @@
+生成订单_白盒测试_判定覆盖法(管理员id,车位号，contractSignatory,contractInitiator，expect)
+admin,132312,huangyimiao666@gmail.com,867,false
+admin,132312,huangyimiao666@gmail.com,867,false
+admin,213321,huangyimiao666@gmail.com,86,false
+admin,213321,huangyimiao666@gmail.com,867,false
+admi,213321,huangyimiao666@gmail.com,867,false

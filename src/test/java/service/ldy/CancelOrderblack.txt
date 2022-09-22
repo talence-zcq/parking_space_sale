@@ -1,0 +1,8 @@
+取消订单_黑盒测试_等价类划分法(订单号，管理员名，except)
+8979879,admin,true
+8979879,admi,false
+897987.9,admin,false
+-8979879,admin,false
+abc,admin,false
+,admin,false
+8979879,,false

@@ -1,0 +1,10 @@
+service_添加活动_黑盒测试_等价类划分法（activity_name,activity_content,activity_category,activity_discount,did,activity_residential_quarters_id）
+双11/100/1/20/001/111/true
+双11//1/0.8/001/111/true
+双11//1/0.8/001//true
+/100/1/20/001/111/true/期望：false
+双11/100/9999/20/001/111/true/期望：false
+双11/20/1/0.8/001/111/true/期望：false
+双11/20/1/100/001/111/true/期望：false
+双11//1/1.8/001/111/true/期望：false
+双11/100/1/20/001/99999/true/期望：false

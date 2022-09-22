@@ -1,0 +1,3 @@
+登录_白盒测试_判定覆盖法(用户ID,密码,expect)
+admin,123456,true
+admi,12345,false
